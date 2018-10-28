@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "WaterCup App",
+  "name": "Count your glasses of water",
   "icons": [
     {
       "src": "favicon.ico",
