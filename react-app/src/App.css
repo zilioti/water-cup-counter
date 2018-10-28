@@ -1,0 +1,67 @@
+.App {
+  background: #dce8f8;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+}
+#cup {
+  background: #97a19b;
+  width: 250px;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 5px 5px 30px 5px;
+}
+#handle {
+  width: 50px;
+  height: 80px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border-right: 10px solid #97a19b;
+  border-top: 10px solid #97a19b;
+  border-bottom: 10px solid #97a19b;
+}
+#glass {
+  background: #dce8f8;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  width: 250px;
+  height: 300px;
+  position: relative;
+}
+#water {
+  background-color: #9cc6ff;
+  width: 250px;
+  bottom: 0;
+  position: absolute;
+}
+.history {
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+}
+h1,
+h3,
+p {
+  margin: 0;
+}
+.days {
+  display: flex;
+  justify-content: center;
+  flex-flow: row-reverse;
+}
+.days p {
+  margin: 10px 10px 0 0;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}

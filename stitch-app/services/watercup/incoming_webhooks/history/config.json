@@ -1,0 +1,11 @@
+{
+    "id": "5bd5138fa66e67ec4dfea8a2",
+    "name": "history",
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": "",
+    "options": {
+        "httpMethod": "GET",
+        "validationMethod": "NO_VALIDATION"
+    },
+    "respond_result": true
+}
